@@ -14,7 +14,7 @@ Video:
 https://youtu.be/8KntOIgzUjY
 
 <p align="center">
-    <img src="assets/JEL05546" style="align:centre" width="50%">
+    <img src="assets/JEL05546.jpg" style="align:centre" width="50%">
 </p>
 
 Some build notes:
