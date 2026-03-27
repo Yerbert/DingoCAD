@@ -1,0 +1,2 @@
+Dingo[[:space:]]Quadruped.SLDASM filter=lfs diff=lfs merge=lfs -text
+Dingo[[:space:]]Quadruped.STEP filter=lfs diff=lfs merge=lfs -text
